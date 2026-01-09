@@ -32,4 +32,5 @@ delete from emplo where emp_id='e5';
 delete from emplo where emp_age='26';
 
 alter table emplo add emp_dept varchar(30), 
+
 add emp_location varchar(25);
